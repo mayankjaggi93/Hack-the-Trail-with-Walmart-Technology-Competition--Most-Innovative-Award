@@ -17,6 +17,6 @@ Worked on a data science project to derive insights for better resource allocati
 Developed a multivariate time series model to forecast the hike trail traffic in Austin, TX. The forecast period included long term (Quarterly) and short term (Daily/Weekly) period. Developed a heuristic based model to plan and select the most cost-effective 
 workforce allocation strategy based on the forecasts.
 
-The Details of the project can be seen in the attached presentation.
+The details of the project can be seen in the attached presentation.
 
 **Repository include Data, Python, Tableau, Workforce planning tool files.**
